@@ -1,2 +1,10 @@
-# online-tools
-A collection of several hundred online tools
+# Online Tools Collection
+Useful collection about interesting online tools 
+
+| Link | Description |
+| --- | --- |
+|[WhatTheFont](https://www.myfonts.com/pages/whatthefont) |WhatTheFont is a simple and easy font finder that can help you identify fonts |
+| [TinyPNG](https://tinypng.com/) | TinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, JPEG and PNG files|
+|[Code Beautify](https://codebeautify.org/)| Code Formatter, JSON Beautifier, XML Viewer, Hex Converters and more...|
+|[Icomoon](https://icomoon.io/)|IcoMoon is striving to build and provide the best iconography and icon management tool for perfectionists|
+|[Remove.bg](https://www.remove.bg/)| Remove backgrounds from your images with AI|
